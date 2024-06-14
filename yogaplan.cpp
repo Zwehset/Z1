@@ -627,7 +627,9 @@ int main()
     }
     else if(MenuCode==0) 
 	{
+    cout<<"goodbyefromthesystem";
 	return 0;
+    
 	}
     else 
 	{
